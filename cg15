@@ -650,7 +650,7 @@
         // ============================================================
         //  CONFIG & SETUP
         // ============================================================
-        const API_KEY     = "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";
+        
         const GROQ_URL    = "https://api.groq.com/openai/v1/chat/completions";
         const DEFAULT_MODEL = "llama-3.3-70b-versatile";
         
